@@ -3,8 +3,24 @@
 
 body {
   color: #000000;
-  background: #DDDDDD;
+  background: #000000;
   margin: 0px;
   padding: 0px;
   font-family: Georgia, Palatino, serif;
   }
+  
+h1 {
+  color:red; 
+  font-size:50px;
+  }
+  
+div#wrapper {
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	padding: 0;
+	border: 0;
+	width: 1300px;
+	text-align: left;
+}
