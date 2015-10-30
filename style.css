@@ -94,6 +94,7 @@ p {
 }
 
 .flowwords {
+	clear:both;
 	width: 1206px;
 }
 
