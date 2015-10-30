@@ -44,7 +44,7 @@ p {
 	margin-bottom: 0;
 	padding: 0;
 	border: 0;
-	width: 1300px;
+	width: 1206px;
 	text-align: left;
 }
 
@@ -54,7 +54,7 @@ p {
 }
 
 .margin_center {
-	margin-right: 10%;
+	margin-right: 12%;
 	margin-left: 13%;
 }
 
@@ -93,7 +93,11 @@ p {
 	white-space: nowrap;
 }
 
-.image {
-	margin: -2px 0 0 0;
-	padding: -2px 0 0 0 ;
+.flowwords {
+	width: 1206px;
+}
+
+canvas {
+	margin: 0 auto;
+	display: block;
 }
